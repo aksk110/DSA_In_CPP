@@ -1,0 +1,1 @@
+ cout<<maze2(3,3)<<endl;
